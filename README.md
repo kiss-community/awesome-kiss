@@ -33,9 +33,9 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
 
 ## Documentation
   - [Official wiki](https://k1ss.org/wiki/)
-  - [Install guide](https://k1ss.org/install)
+  - [Installation guide](https://k1ss.org/install)
 
 ## Resources
   - [kiss-community/awesome-kiss](https://github.com/kiss-community/awesome-kiss) - META
   - [Official website](https://k1ss.org/)
-  - [Gemini mirror of website](gemini://tilde.team/~kiedtl/k1ss)
+  - gemini://tilde.team/~kiedtl/k1ss - Gemini mirror of website
