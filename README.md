@@ -11,10 +11,13 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [Resources](#resources)
 
 ## Repositories
+  - [aosync/kiss-aosync](https://github.com/aosync/kiss-aosync) - Miscellaneous packages by Alejandro Sior. 
   - [dilyn-corner/KISS-haskell](https://github.com/dilyn-corner/KISS-haskell) - A KISS repository for Haskell projects.
   - [dilyn-corner/KISS-kde](https://github.com/dilyn-corner/KISS-kde) - A KISS repository for the Plasma Desktop.
   - [dilyn-corner/KISS-me](https://github.com/dilyn-corner/KISS-me) - A KISS repository for forks, projects, and fun.
   - [dilyn-corner/KISS-static](https://github.com/dilyn-corner/KISS-static) - KISS, but static.
+  - [dylanaraps/dylan-kiss](https://github.com/dylanaraps/dylan-kiss) - Dylan Arap's personal packages.
+  - [dylanaraps/kiss-flatpak](https://github.com/dylanaraps/kiss-flatpak) - Flatpak for kiss.
   - [eudaldgr/kiss-garbage](https://github.com/eudaldgr/kiss-garbage) - A general purpose community repository.
   - [~gullik/ksrepo](https://git.sr.ht/~gullik/ksrepo) - Custom package repository for kisslinux.
   - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repository for Wayland packages.
@@ -24,6 +27,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [kisslinux/community](https://github.com/kisslinux/community) - Main community repo.
   - [kisslinux/repo](https://github.com/kisslinux/repo) - Official KISS repositories.
   - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
+  - [sdsddsd1/kiss-games](https://github.com/sdsddsd1/kiss-games) - Repo for video games.
 
 ## Spins
   - [GKISS](https://github.com/gkisslinux) - A fork which uses the GNU C library.
