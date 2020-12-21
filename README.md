@@ -19,6 +19,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [~gullik/ksrepo](https://git.sr.ht/~gullik/ksrepo) - Custom package repository for kisslinux.
   - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repository for Wayland packages.
   - [jedehan/kiss-repo](https://github.com/jedahan/kiss-repo) - Custom packages for kiss.
+  - [jedahan/kiss-repo-respo](https://github.com/jedahan/kiss-repo-repos) - Metarepository that lets you manage repositories with kiss.
   - [kiss-community/repo-community](https://github.com/kiss-community/repo-community) - Up-to-date fork of kisslinux/community.
   - [kisslinux/community](https://github.com/kisslinux/community) - Main community repo.
   - [kisslinux/repo](https://github.com/kisslinux/repo) - Official KISS repositories.
