@@ -27,7 +27,9 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
 
 ## Spins
   - [GKISS](https://github.com/gkisslinux) - A fork which uses the GNU C library.
+  - [glasnostlinux/glasnost](https://github.com/glasnostlinux/glasnost) - Clang/llvm instead of gcc/binutils. Multiarch repo.
   - [jedavies-dev/kiss-aarch64](https://github.com/jedavies-dev/kiss-aarch64) - An unofficial port of KISS Linux to aarch64. 
+  - [jedavies-dev/kiss-ppc64le](https://github.com/jedavies-dev/kiss-ppc64le) - An unofficial port of KISS Linux to powerpc64le. 
   - [wyvertux/wyverkiss](https://github.com/wyvertux/wyverkiss) - If KISS goes GNU, we go the opposite.
 
 ## Commands
