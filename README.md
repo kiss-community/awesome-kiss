@@ -1,7 +1,7 @@
 # awesome-kiss
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull requests welcome and encouraged!
+Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull requests are welcome and encouraged, please read the [contribution guidelines](CONTRIBUTING.md) beforehand, though!
 
 ## Contents
   - [Repositories](#repositories)
