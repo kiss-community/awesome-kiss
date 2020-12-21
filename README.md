@@ -1,2 +1,41 @@
 # awesome-kiss
-Awesome KISS repos, spins, commands, etc
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull requests welcome and encouraged!
+
+## Contents
+  - [Repositories](#repositories)
+  - [Spins](#spins)
+  - [`kiss` commands](#commands)
+  - [Documentation](#documentation)
+  - [Resources](#resources)
+
+## Repositories
+  - [dilyn-corner/KISS-haskell](https://github.com/dilyn-corner/KISS-haskell) - A KISS repository for Haskell projects.
+  - [dilyn-corner/KISS-kde](https://github.com/dilyn-corner/KISS-kde) - A KISS repository for the Plasma Desktop.
+  - [dilyn-corner/KISS-me](https://github.com/dilyn-corner/KISS-me) - A KISS repository for forks, projects, and fun.
+  - [dilyn-corner/KISS-static](https://github.com/dilyn-corner/KISS-static) - KISS, but static.
+  - [eudaldgr/kiss-garbage](https://github.com/eudaldgr/kiss-garbage) - A general purpose community repository.
+  - [~gullik/ksrepo](https://git.sr.ht/~gullik/ksrepo) - Custom package repository for kisslinux.
+  - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repository for Wayland packages.
+  - [jedehan/kiss-repo](https://github.com/jedahan/kiss-repo) - Custom packages for kiss.
+  - [kiss-community/repo-community](https://github.com/kiss-community/repo-community) - Up-to-date fork of kisslinux/community.
+  - [kisslinux/community](https://github.com/kisslinux/community) - Main community repo.
+  - [kisslinux/repo](https://github.com/kisslinux/repo) - Official KISS repositories.
+  - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
+
+## Spins
+  - [jedavies-dev/kiss-aarch64](https://github.com/jedavies-dev/kiss-aarch64) - An unofficial port of KISS Linux to aarch64. 
+  - [wyvertux/wyverkiss](https://github.com/wyvertux/wyverkiss) - If KISS goes GNU, we go the opposite.
+
+## Commands
+  - [kiss-live](https://github.com/eudaldgr/kiss-live/releases/tag/2020.12-1) - The Live repository for generate UNOFFICIAL images of KISS Linux.
+
+## Documentation
+  - [Official wiki](https://k1ss.org/wiki/)
+  - [Install guide](https://k1ss.org/install)
+
+## Resources
+  - [kiss-community/awesome-kiss](https://github.com/kiss-community/awesome-kiss) - META
+  - [Official website](https://k1ss.org/)
+  - [Gemini mirror of website](gemini://tilde.team/~kiedtl/k1ss)
