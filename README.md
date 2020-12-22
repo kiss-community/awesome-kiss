@@ -46,7 +46,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
 
 ## Commands
   - [kiss-live](https://github.com/eudaldgr/kiss-live/releases/tag/2020.12-1) - The Live repository for generate UNOFFICIAL images of KISS Linux.
-  - [kiss-find](https://github.com/jedahan/kiss-repo/tree/main/kiss-find) - search for packages in all repositories, not just your local machine.
+  - [kiss-find](https://github.com/jedahan/kiss-find) - search for packages in all repositories, not just your local machine.
 
 ## Documentation
   - [Official wiki](https://k1ss.org/wiki/)
