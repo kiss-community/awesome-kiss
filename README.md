@@ -35,6 +35,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [jedavies-dev/kiss-aarch64](https://github.com/jedavies-dev/kiss-aarch64) - An unofficial port of KISS Linux to aarch64. 
   - [jedavies-dev/kiss-ppc64le](https://github.com/jedavies-dev/kiss-ppc64le) - An unofficial port of KISS Linux to powerpc64le. 
   - [wyvertux/wyverkiss](https://github.com/wyvertux/wyverkiss) - If KISS goes GNU, we go the opposite.
+  - [xuxiaodong/kiss-raspi](https://github.com/xuxiaodong/kiss-raspi) - A kiss repository for the raspberry pi.
 
 ## Commands
   - [kiss-live](https://github.com/eudaldgr/kiss-live/releases/tag/2020.12-1) - The Live repository for generate UNOFFICIAL images of KISS Linux.
