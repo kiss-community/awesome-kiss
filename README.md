@@ -37,6 +37,8 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
 
 ## Spins
   - [arvl130/kiss32-repo](https://github.com/arvl130/kiss32-repo) - Fork of KISS for i686 architecture.
+  - [Carbs](https://github.com/CarbsLinux) - A fork which uses its own package manager Carbs Packaging Tools, a POSIX shell
+package manager forked from KISS with the tool-based approach of xbps.
   - [GKISS](https://github.com/gkisslinux) - A fork which uses the GNU C library.
   - [glasnostlinux/glasnost](https://github.com/glasnostlinux/glasnost) - Clang/llvm instead of gcc/binutils. Multiarch repo.
   - [jedavies-dev/kiss-aarch64](https://github.com/jedavies-dev/kiss-aarch64) - An unofficial port of KISS Linux to aarch64. 
