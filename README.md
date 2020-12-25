@@ -4,11 +4,16 @@
 Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull requests are welcome and encouraged, please read the [contribution guidelines](CONTRIBUTING.md) beforehand, though!
 
 ## Contents
+  - [Community](#community)
   - [Repositories](#repositories)
   - [Spins](#spins)
   - [`kiss` commands](#commands)
   - [Documentation](#documentation)
   - [Resources](#resources)
+
+## Community
+  - [#kisslinux chat](irc://irc.freenode.net/kisslinux)
+  - [r/kisslinux](https://www.reddit.com/r/kisslinux)
 
 ## Repositories
   - [dilyn-corner/KISS-kde](https://github.com/dilyn-corner/KISS-kde) - A KISS repository for the Plasma Desktop.
