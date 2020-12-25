@@ -12,7 +12,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [Resources](#resources)
 
 ## Community
-  - [#kisslinux chat](irc://irc.freenode.net/kisslinux)
+  - #kisslinux chat - irc://irc.freenode.net/kisslinux
   - [r/kisslinux](https://www.reddit.com/r/kisslinux)
 
 ## Repositories
