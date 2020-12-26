@@ -25,7 +25,9 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repository for Wayland packages.
   - [jedehan/kiss-repo](https://github.com/jedahan/kiss-repo) - Custom packages for kiss.
   - [jedahan/kiss-repo-repos](https://github.com/jedahan/kiss-repo-repos) - Manage kiss repositories with kiss build && kiss install.
+  - [kiss-community/repo-bin](https://github.com/kiss-community/repo-bin) - Binary package repository.
   - [kiss-community/repo-community](https://github.com/kiss-community/repo-community) - Up-to-date fork of kisslinux/community.
+  - [kiss-community/repo-main](https://github.com/kiss-community/repo-main) - Up-to-date fork of kisslinux/repo.
   - [kisslinux/community](https://github.com/kisslinux/community) - Main community repo.
   - [kisslinux/repo](https://github.com/kisslinux/repo) - Official KISS repositories.
   - [konimex/kiss-llvm](https://github.com/konimex/kiss-llvm) - Repository structure to build LLVM without any traces of GCC libraries. It also provides any alternatives for official KISS packages that cannot be built with LLVM.
