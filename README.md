@@ -20,6 +20,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [dilyn-corner/KISS-me](https://github.com/dilyn-corner/KISS-me) - A KISS repository for forks, projects, and fun.
   - [dilyn-corner/KISS-static](https://github.com/dilyn-corner/KISS-static) - KISS, but static.
   - [eudaldgr/kiss-garbage](https://github.com/eudaldgr/kiss-garbage) - A general purpose community repository.
+  - [Evo112358/kiss-evo](https://github.com/Evo112358/kiss-evo) - Kiss repo for programs not in Core/Community.
   - [~gullik/ksrepo](https://git.sr.ht/~gullik/ksrepo) - Custom package repository for kisslinux.
   - [Himmalerin/kiss-fonts](https://github.com/Himmalerin/kiss-fonts) - Repository for font packages.
   - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repository for Wayland packages.
