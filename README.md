@@ -43,7 +43,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [st3r4g/kiss-repo](https://github.com/st3r4g/kiss-repo) - Repo with s6 and wayland packages.
 
 ## Spins
-  - [Carbs](https://carbslinux.org/) - Carbs Linux is an in-development fork of KISS inspired by void with a suckless mindset.
+  - [Carbs](https://carbslinux.org/) - Carbs Linux is an in-development fork of KISS inspired by Void with a suckless mindset.
   - [GKISS](https://github.com/gkisslinux/grepo#gkiss-linux-) - A fork which uses the GNU C library.
   - [Glasnost](https://www.glasnost.org/) - Clang/llvm instead of gcc/binutils. Multiarch repo.
   - [Wyverkiss](https://github.com/wyvertux/wyverkiss) - If KISS goes GNU, we go the opposite.
