@@ -33,6 +33,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [kisslinux/repo](https://github.com/kisslinux/repo) - Official KISS repositories.
   - [konimex/kiss-llvm](https://github.com/konimex/kiss-llvm) - Repository structure to build LLVM without any traces of GCC libraries.
   - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
+  - [mmatongo/KISS-wine](https://github.com/mmatongo/KISS-wine) - Repo dedidated to the WINE compatibility layer.
   - [sdsddsd1/kiss-games](https://github.com/sdsddsd1/kiss-games) - Repo for video games.
 ### Inactive
   - [aosync/kiss-aosync](https://github.com/aosync/kiss-aosync) - Miscellaneous packages by Alejandro Sior.
