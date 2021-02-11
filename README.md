@@ -16,6 +16,8 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [r/kisslinux](https://www.reddit.com/r/kisslinux)
 
 ## Repositories
+A full list of repositories can be found [here](https://github.com/topics/kiss-repo).
+
   - [dilyn-corner/KISS-kde](https://github.com/dilyn-corner/KISS-kde) - Repo for the Plasma Desktop.
   - [dilyn-corner/KISS-static](https://github.com/dilyn-corner/KISS-static) - KISS, but static.
   - [eudaldgr/kiss-garbage](https://github.com/eudaldgr/kiss-garbage) - General purpose community repository.
