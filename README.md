@@ -22,6 +22,7 @@ Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull reques
   - [Himmalerin/kiss-fonts](https://github.com/Himmalerin/kiss-fonts) - Repository for font packages.
   - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repository for Wayland packages.
   - [jedahan/kiss-repo-repos](https://github.com/jedahan/kiss-repo-repos) - Manage kiss repositories with kiss build && kiss install.
+  - [kiss-community/kiss-graveyard](https://github.com/kiss-community/kiss-graveyard) - KISS repo for packages dropped from community.
   - [kiss-community/repo-bin](https://github.com/kiss-community/repo-bin) - Binary package repository.
   - [konimex/kiss-llvm](https://github.com/konimex/kiss-llvm) - Repository structure to build LLVM without any traces of GCC libraries.
   - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
