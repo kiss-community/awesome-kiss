@@ -16,7 +16,7 @@ Awesome [KISS](https://k1sslinux.org) repositories, spins, commands, etc. Pull r
   - [r/kisslinux](https://www.reddit.com/r/kisslinux)
 
 ## Repositories
-A full list of repositories can be found [here](https://github.com/topics/kiss-repo).
+This list does not include personal repositories, just repos with a direct purpose, or unique quality. A full list of repositories on GitHub can be found [here](https://github.com/topics/kiss-repo).
 
   - [cemkeylan/cpt-docker](https://github.com/cemkeylan/cpt-docker) - Repo for Docker.
   - [dilyn-corner/KISS-kde](https://github.com/dilyn-corner/KISS-kde) - Repo for the Plasma Desktop.
