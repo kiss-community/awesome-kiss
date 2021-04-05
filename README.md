@@ -1,7 +1,7 @@
 # awesome-kiss
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome [KISS](https://k1ss.org) repositories, spins, commands, etc. Pull requests are welcome and encouraged, please read the [contribution guidelines](CONTRIBUTING.md) beforehand, though!
+Awesome [KISS](https://k1sslinux.org) repositories, spins, commands, etc. Pull requests are welcome and encouraged, please read the [contribution guidelines](CONTRIBUTING.md) beforehand, though!
 
 ## Contents
   - [Community](#community)
@@ -49,10 +49,10 @@ A full list of repositories can be found [here](https://github.com/topics/kiss-r
   - [kiss-find](https://github.com/jedahan/kiss-find) - Search for packages in all repositories, not just your local machine.
 
 ## Documentation
-  - [Official wiki](https://k1ss.org/wiki/)
-  - [Installation guide](https://k1ss.org/install)
+  - [Official wiki](https://k1sslinux.org/wiki/)
+  - [Installation guide](https://k1sslinux.org/install)
 
 ## Resources
   - [kiss-community/awesome-kiss](https://github.com/kiss-community/awesome-kiss) - META
-  - [Official website](https://k1ss.org/)
+  - [Official website](https://k1sslinux.org/)
   - gemini://tilde.team/~kiedtl/k1ss - Gemini mirror of website
