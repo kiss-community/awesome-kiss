@@ -29,7 +29,7 @@ This list does not include personal repositories, just repos with a direct purpo
   - [kiss-community/repo-bin](https://github.com/kiss-community/repo-bin) - Binary package repository.
   - [konimex/kiss-llvm](https://github.com/konimex/kiss-llvm) - Repository structure to build LLVM without any traces of GCC libraries.
   - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
-  - [mmatongo/KISS-wine](https://github.com/mmatongo/KISS-wine) - Repo dedidated to the WINE compatibility layer.
+  - [mmatongo/KISS-wine](https://github.com/mmatongo/KISS-wine) - Repo dedicated to the WINE compatibility layer.
   - [sdsddsd1/kiss-games](https://github.com/sdsddsd1/kiss-games) - Repo for video games.
   - [dilyn-corner/KISS-haskell](https://github.com/dilyn-corner/KISS-haskell) - Repo for Haskell projects.
   - [dylanaraps/kiss-flatpak](https://github.com/dylanaraps/kiss-flatpak) - Flatpak for KISS.
