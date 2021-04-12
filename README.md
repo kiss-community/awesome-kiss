@@ -8,6 +8,7 @@ Awesome [KISS](https://k1sslinux.org) repositories, spins, commands, etc. Pull r
   - [Repositories](#repositories)
   - [Spins](#spins)
   - [`kiss` commands](#commands)
+  - [Software](#software)
   - [Documentation](#documentation)
   - [Resources](#resources)
 
@@ -50,6 +51,12 @@ This list does not include personal repositories, just repos with a direct purpo
   - [kiss-find](https://github.com/jedahan/kiss-find) - Search for packages in all repositories, not just your local machine.
   - [kiss-rmdeps](https://gist.github.com/FriendlyNeighborhoodShane/41593680b39c0c04cd82b5497ca25a26) - Remove dependencies recursively.
   - [kiss-cacheman](https://gist.github.com/FriendlyNeighborhoodShane/ffcac3df6d796023d2283a6afdacedbc) - Clean the package manager's cache.
+
+## Software
+  - [tinyramfs](https://github.com/illiliti/tinyramfs) - A tiny initramfs generator written in POSIX shell.
+  - [sm](https://github.com/cemkeylan/sm) - A simplistic service manager written in C99.
+  - [shinit](https://github.com/cemkeylan/shinit) - Basic init daemon in POSIX sh with only 5 lines of code.
+  - [tuitube](https://github.com/djt3/tuitube) - A minimal TUI YouTube (invidious) frontend made in c++.
 
 ## Documentation
   - [Official wiki](https://k1sslinux.org/wiki/)
