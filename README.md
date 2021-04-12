@@ -49,6 +49,7 @@ This list does not include personal repositories, just repos with a direct purpo
   - [kiss-live](https://github.com/eudaldgr/kiss-live/releases/tag/2020.12-1) - The Live repository for generate UNOFFICIAL images of KISS.
   - [kiss-find](https://github.com/jedahan/kiss-find) - Search for packages in all repositories, not just your local machine.
   - [kiss-rmdeps](https://gist.github.com/FriendlyNeighborhoodShane/41593680b39c0c04cd82b5497ca25a26) - Remove dependencies recursively.
+  - [kiss-cacheman](https://gist.github.com/FriendlyNeighborhoodShane/ffcac3df6d796023d2283a6afdacedbc) - Clean the package manager's cache.
 
 ## Documentation
   - [Official wiki](https://k1sslinux.org/wiki/)
