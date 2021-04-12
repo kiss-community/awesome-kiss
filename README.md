@@ -33,7 +33,7 @@ This list does not include personal repositories, just repos with a direct purpo
   - [sdsddsd1/kiss-games](https://github.com/sdsddsd1/kiss-games) - Repo for video games.
   - [dilyn-corner/KISS-haskell](https://github.com/dilyn-corner/KISS-haskell) - Repo for Haskell projects.
   - [dylanaraps/kiss-flatpak](https://github.com/dylanaraps/kiss-flatpak) - Flatpak for KISS.
-  - [periish/kiss-xfce4](https://github.com/periish/kiss-xfce4) - XFCE4 desktop environment for KISS.
+  - [periish/kiss-all](https://github.com/periish/kiss-all) - A collection of projects, including XFCE4, dbus, pulseaudio.
 
 ## Spins
   - [Carbs](https://carbslinux.org/) - Carbs Linux is an in-development fork of KISS inspired by Void with a suckless mindset.
@@ -48,6 +48,7 @@ This list does not include personal repositories, just repos with a direct purpo
 ## Commands
   - [kiss-live](https://github.com/eudaldgr/kiss-live/releases/tag/2020.12-1) - The Live repository for generate UNOFFICIAL images of KISS.
   - [kiss-find](https://github.com/jedahan/kiss-find) - Search for packages in all repositories, not just your local machine.
+  - [kiss-rmdeps](https://gist.github.com/FriendlyNeighborhoodShane/41593680b39c0c04cd82b5497ca25a26) - Remove dependencies recursively.
 
 ## Documentation
   - [Official wiki](https://k1sslinux.org/wiki/)
