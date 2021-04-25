@@ -28,6 +28,7 @@ This list does not include personal repositories, just repos with a direct purpo
   - [jedahan/kiss-repo-repos](https://github.com/jedahan/kiss-repo-repos) - Manage kiss repositories with kiss build && kiss install.
   - [kiss-community/kiss-graveyard](https://github.com/kiss-community/kiss-graveyard) - Repo for packages dropped from community.
   - [kiss-community/repo-bin](https://github.com/kiss-community/repo-bin) - Binary package repository.
+  - [git-bruh/kissLTO](https://github.com/git-bruh/kissLTO) - Repository for building with -O3, Graphite, and LTO optimizations.
   - [konimex/kiss-llvm](https://github.com/konimex/kiss-llvm) - Repository structure to build LLVM without any traces of GCC libraries.
   - [mmatongo/kiss-lang](https://github.com/mmatongo/kiss-lang) - Repo dedicated to language compilers etc.
   - [mmatongo/KISS-wine](https://github.com/mmatongo/KISS-wine) - Repo dedicated to the WINE compatibility layer.
