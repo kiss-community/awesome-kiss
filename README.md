@@ -36,6 +36,7 @@ This list does not include personal repositories, just repos with a direct purpo
   - [dilyn-corner/KISS-haskell](https://github.com/dilyn-corner/KISS-haskell) - Repo for Haskell projects.
   - [dylanaraps/kiss-flatpak](https://github.com/dylanaraps/kiss-flatpak) - Flatpak for KISS.
   - [periish/kiss-all](https://github.com/periish/kiss-all) - A collection of projects, including XFCE4, dbus, pulseaudio.
+  - [ehawkvu/kiss-xorg](https://github.com/ehawkvu/kiss-xorg) - Repo for Xorg
 
 ## Spins
   - [Carbs](https://carbslinux.org/) - Carbs Linux is an in-development fork of KISS inspired by Void with a suckless mindset.
