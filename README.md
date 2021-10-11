@@ -41,11 +41,9 @@ This list does not include personal repositories, just repos with a direct purpo
 ## Spins
   - [Carbs](https://carbslinux.org/) - Carbs Linux is an in-development fork of KISS inspired by Void with a suckless mindset.
   - [GKISS](https://github.com/gkisslinux/grepo#gkiss-linux-) - A KISS fork which uses the GNU C library.
-  - [Glasnost](https://www.glasnost.org/) - Clang/LLVM instead of gcc/binutils, multiarch repo.
+  - [Glasnost](https://www.glasnost.org/) - A KISS fork which supports cross-compilation between aarch64, armv7, i686, powerpc64(le), riscv64, x86_64.
   - [Wyverkiss](https://github.com/wyvertux/wyverkiss) - If KISS goes GNU, we go the opposite.
   - [arvl130/kiss32-repo](https://github.com/arvl130/kiss32-repo) - Fork of KISS for i686 architecture.
-  - [jedavies-dev/kiss-aarch64](https://github.com/jedavies-dev/kiss-aarch64) - An unofficial port of KISS to aarch64. 
-  - [jedavies-dev/kiss-ppc64le](https://github.com/jedavies-dev/kiss-ppc64le) - An unofficial port of KISS to powerpc64le. 
   - [xuxiaodong/kiss-raspi](https://github.com/xuxiaodong/kiss-raspi) - A KISS repository for the raspberry pi.
 
 ## Commands
