@@ -24,7 +24,6 @@ This list does not include personal repositories, just repos with a direct purpo
   - [dilyn-corner/KISS-static](https://github.com/dilyn-corner/KISS-static) - KISS, but static.
   - [eudaldgr/kiss-garbage](https://github.com/eudaldgr/kiss-garbage) - General purpose community repository.
   - [Himmalerin/kiss-fonts](https://github.com/Himmalerin/kiss-fonts) - Repo for font packages.
-  - [Himmalerin/kiss-wayland](https://github.com/Himmalerin/kiss-wayland) - Repo for Wayland packages.
   - [jedahan/kiss-repo-repos](https://github.com/jedahan/kiss-repo-repos) - Manage kiss repositories with kiss build && kiss install.
   - [kiss-community/kiss-graveyard](https://github.com/kiss-community/kiss-graveyard) - Repo for packages dropped from community.
   - [kiss-community/repo-bin](https://github.com/kiss-community/repo-bin) - Binary package repository.
@@ -33,7 +32,6 @@ This list does not include personal repositories, just repos with a direct purpo
   - [mmatongo/KISS-wine](https://github.com/mmatongo/KISS-wine) - Repo dedicated to the WINE compatibility layer.
   - [sdsddsd1/kiss-games](https://github.com/sdsddsd1/kiss-games) - Repo for video games.
   - [dilyn-corner/KISS-haskell](https://github.com/dilyn-corner/KISS-haskell) - Repo for Haskell projects.
-  - [dylanaraps/kiss-flatpak](https://github.com/dylanaraps/kiss-flatpak) - Flatpak for KISS.
   - [periish/kiss-all](https://github.com/periish/kiss-all) - A collection of projects, including XFCE4, dbus, pulseaudio.
   - [ehawkvu/kiss-xorg](https://github.com/ehawkvu/kiss-xorg) - Repo for Xorg.
   - [ehawkvu/kiss-tex](https://github.com/ehawkvu/kiss-tex) - Repo for TeXLive.
@@ -47,13 +45,16 @@ This list does not include personal repositories, just repos with a direct purpo
   - [xuxiaodong/kiss-raspi](https://github.com/xuxiaodong/kiss-raspi) - A KISS repository for the raspberry pi.
 
 ## Commands
-  - [kiss-live](https://github.com/eudaldgr/kiss-live/releases/tag/2020.12-1) - The Live repository for generate UNOFFICIAL images of KISS.
   - [kiss-find](https://github.com/jedahan/kiss-find) - Search for packages in all repositories, not just your local machine.
   - [kiss-rmdeps](https://gist.github.com/FriendlyNeighborhoodShane/41593680b39c0c04cd82b5497ca25a26) - Remove dependencies recursively.
   - [kiss-cacheman](https://gist.github.com/FriendlyNeighborhoodShane/ffcac3df6d796023d2283a6afdacedbc) - Clean the package manager's cache.
 
 ## Software
   - [tinyramfs](https://github.com/illiliti/tinyramfs) - A tiny initramfs generator written in POSIX shell.
+  - [init-hooks](https://github.com/kiss-community/init-hooks) - Collection of hooks for KISS init
+  - [mkrootfs](https://github.com/kiss-community/mkrootfs) - Tool for generating rootfs tarballs for KISS Linux
+  - [kiss-live](https://github.com/kiss-community/kiss-live) - Script to build livecd iso for KISS
+  - [kiss-hooks](https://github.com/kiss-community/kiss-hooks) - Collection of hooks for kiss package manager
   - [sm](https://github.com/cemkeylan/sm) - A simplistic service manager written in C99.
   - [shinit](https://github.com/cemkeylan/shinit) - Basic init daemon in POSIX sh with only 5 lines of code.
   - [tuitube](https://github.com/djt3/tuitube) - A minimal TUI YouTube (invidious) frontend made in c++.
